@@ -1,12 +1,12 @@
-[submodule "client"]
-	path = client
-	url = ./client
-[submodule "server"]
-	path = server
-	url = ./server
-[submodule "docs"]
-	path = docs
-	url = ./docs
-[submodule "shared"]
-	path = shared
-	url = ./shared
+[submodule "Listsy-shared"]
+	path = Listsy-shared
+	url = https://github.com/Sapython/Listsy-shared.git
+[submodule "Listsy-server"]
+	path = Listsy-server
+	url = https://github.com/Sapython/Listsy-server.git
+[submodule "Listsy-client"]
+	path = Listsy-client
+	url = https://github.com/Sapython/Listsy-client.git
+[submodule "Listsy-docs"]
+	path = Listsy-docs
+	url = https://github.com/Sapython/Listsy-docs.git
