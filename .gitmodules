@@ -1,0 +1,12 @@
+[submodule "client"]
+	path = client
+	url = ./client
+[submodule "server"]
+	path = server
+	url = ./server
+[submodule "docs"]
+	path = docs
+	url = ./docs
+[submodule "shared"]
+	path = shared
+	url = ./shared
